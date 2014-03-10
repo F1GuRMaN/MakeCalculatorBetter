@@ -33,7 +33,7 @@ public class Calc2 {
      // Create buttons using constructor of the  
      // class JButton that takes the label of the 
      // button as a parameter 
-
+//
 	 // Create the panel with the GridLayout with 12 buttons – 
         //10 numeric ones, period, and the equal sign   
 	     JButton buttons [] = {new JButton("0"), new JButton("1"), new JButton("2"), new JButton("3"),
