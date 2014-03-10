@@ -27,7 +27,7 @@ public class Calculator {
        // Create the display field and place it in the   
        // North area of the window
 
-	  displayField = new JTextField(30);
+	  displayField = new JTextField(20);
 	  windowContent.add("North",displayField);
 
      // Create buttons using constructor of the  
